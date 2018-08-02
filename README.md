@@ -14,3 +14,19 @@
 ```shell
 $ npm install
 ```
+
+### Run
+
+> run from the terminal
+
+```shell
+$ npm start
+```
+### Browse
+
+> browse from the browser
+
+```shell
+http://localhost:3000
+```
+
