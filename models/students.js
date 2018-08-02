@@ -1,7 +1,7 @@
 let express = require('express');
 let app = express();
 let sql = require("mssql");
-let config = require('./config/dbConfig');
+let config = require('../config/dbConfig');
 
 
 exports.getByQuery = function () {
